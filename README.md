@@ -4,7 +4,7 @@
 
 <img align="right" src="https://cdn.discordapp.com/attachments/1230813707483873291/1240113738376413184/Discord_Image_1024.png?ex=666110eb&is=665fbf6b&hm=24dbbef7dcee5b4fc9b5ec8b81b3ddb1958dc2c755e22c93982ad271e77fe2f6&" width="150">
 
-### I've been programming on the side for the past few years but have recently started making larger-scale public projects.
+### I've been programming on the side for the past 4 years but have recently started making larger-scale public projects. Here is some of my work.
 ### I'm most passionate about developing in Python and JavaScript.
 
 I'm the owner and founder of [Communitrics](https://github.com/Communitrics), an all-in-one Discord bot for tracking YouTube milestones.
@@ -53,7 +53,7 @@ I'm the owner and founder of [Communitrics](https://github.com/Communitrics), an
 <table>
   <tr style="background-color: #f0f0f0;">
     <td valign="top">
-      <h2>📈 Github Contributions</h2>
+      <h2>📈 GitHub Contributions</h2>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlie-ashford&theme=dark" alt="GitHub Streak" style="vertical-align: middle;">
     </td>
     <td valign="top">
