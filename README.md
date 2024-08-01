@@ -2,7 +2,7 @@
 
 ## I'm an 18-year-old developer for Discord and the web.
 
-<img align="right" src="https://cdn.discordapp.com/attachments/1230813707483873291/1240113738376413184/Discord_Image_1024.png?ex=666110eb&is=665fbf6b&hm=24dbbef7dcee5b4fc9b5ec8b81b3ddb1958dc2c755e22c93982ad271e77fe2f6&" width="150">
+<img align="right" src="https://api.communitrics.com/youtube/profile?channel=communitrics" width="150">
 
 ### I've been programming on the side for the past 4 years but have recently started making larger-scale public projects. Here is some of my ~~best~~ work.
 ### I'm most passionate about developing in Python and JavaScript.
